@@ -1,6 +1,6 @@
 # Lab 5 - Starter
 
-Lab Partners: Wesley Wang, Daniel Lam  
+Lab Partners: Daniel Lam, Wesley Wang
 Github actions: https://github.com/chefyes/github-actions-for-ci
 Github actions last step (messed up on step 18): https://github.com/chefyes/github-actions-for-ci/pull/6
 
